@@ -1,0 +1,5 @@
+cripser<0.0.26; python_version < "3.10"
+cripser; python_version >= "3.10"
+gudhi
+giotto-tda
+h5py

@@ -1,0 +1,9 @@
+/rockbot/.env
+/rockbot/.venv/
+/rockbot/__pycache__/
+*.pyc
+
+/rockbot/artifacts/runs/*
+/rockbot/artifacts/uploads/*
+
+.DS_Store
